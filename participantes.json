@@ -1,0 +1,721 @@
+{
+    "items": [
+        {
+            "id": "part_68d06bf713b391.74087028",
+            "nombre": "Felipe Ortega",
+            "correo": "felipondio157@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 15,
+            "historial_puntos": [
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-22T08:20:18+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-29T16:29:38+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 12,
+                    "operacion": "asignar",
+                    "motivo": "",
+                    "fecha": "2025-10-23T16:55:02+02:00",
+                    "asignado_por": 14
+                },
+                {
+                    "puntos": -13,
+                    "operacion": "restar",
+                    "motivo": "",
+                    "fecha": "2025-10-23T16:57:51+02:00",
+                    "asignado_por": 14
+                },
+                {
+                    "puntos": 12,
+                    "operacion": "asignar",
+                    "motivo": "",
+                    "fecha": "2025-10-23T21:59:52+02:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": -10,
+                    "operacion": "restar",
+                    "motivo": "",
+                    "fecha": "2025-10-23T22:00:56+02:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 12,
+                    "operacion": "asignar",
+                    "motivo": "",
+                    "fecha": "2025-10-23T22:12:39+02:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-09-21T21:19:51+00:00",
+            "actualizado_en": "2025-10-23T22:12:39+02:00"
+        },
+        {
+            "id": "part_68d06c11883394.64655954",
+            "nombre": "Adrián alapont",
+            "correo": "adrian.alapont.m@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 14,
+            "historial_puntos": [
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-22T08:20:22+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-29T16:29:42+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 13,
+                    "operacion": "asignar",
+                    "motivo": "",
+                    "fecha": "2025-10-23T16:55:15+02:00",
+                    "asignado_por": 14
+                },
+                {
+                    "puntos": 1,
+                    "operacion": "asignar",
+                    "motivo": "",
+                    "fecha": "2025-10-23T16:59:23+02:00",
+                    "asignado_por": 14
+                },
+                {
+                    "puntos": -2,
+                    "operacion": "restar",
+                    "motivo": "",
+                    "fecha": "2025-10-23T22:12:48+02:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-09-21T21:20:17+00:00",
+            "actualizado_en": "2025-10-23T22:12:48+02:00"
+        },
+        {
+            "id": "part_68d06c30bfed80.63184342",
+            "nombre": "Martín Gómez",
+            "correo": "martingomez0203@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 4,
+            "historial_puntos": [
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-22T08:20:25+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-29T16:29:44+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": -1,
+                    "operacion": "restar",
+                    "motivo": "Sí",
+                    "fecha": "2025-10-23T16:55:41+02:00",
+                    "asignado_por": 14
+                },
+                {
+                    "puntos": 2,
+                    "operacion": "asignar",
+                    "motivo": "",
+                    "fecha": "2025-10-23T16:57:45+02:00",
+                    "asignado_por": 14
+                },
+                {
+                    "puntos": 1,
+                    "operacion": "asignar",
+                    "motivo": "",
+                    "fecha": "2025-10-23T22:01:02+02:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-09-21T21:20:48+00:00",
+            "actualizado_en": "2025-10-23T22:01:02+02:00"
+        },
+        {
+            "id": "part_68d06c44ab16d0.38707118",
+            "nombre": "Nikita polyuga",
+            "correo": "nikpolyuga2008@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 7,
+            "historial_puntos": [
+                {
+                    "puntos": 3,
+                    "motivo": "",
+                    "fecha": "2025-09-22T08:15:31+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 2,
+                    "motivo": "",
+                    "fecha": "2025-09-22T08:19:51+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-29T16:29:47+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-29T16:29:49+00:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-09-21T21:21:08+00:00",
+            "actualizado_en": "2025-09-29T16:29:49+00:00"
+        },
+        {
+            "id": "part_68d06c632152d8.58079693",
+            "nombre": "Makar polyuga",
+            "correo": "bebroniuk2001@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 2,
+            "historial_puntos": [
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-22T08:20:30+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-29T16:29:55+00:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-09-21T21:21:39+00:00",
+            "actualizado_en": "2025-09-29T16:29:55+00:00"
+        },
+        {
+            "id": "part_68d06c822c4df2.60546088",
+            "nombre": "Aaron Santiago",
+            "correo": "esmimeman@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 3,
+            "historial_puntos": [
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-22T08:20:35+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-29T16:29:59+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-30T20:19:22+00:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-09-21T21:22:10+00:00",
+            "actualizado_en": "2025-09-30T20:19:22+00:00"
+        },
+        {
+            "id": "part_68d06c980cb5f1.20056056",
+            "nombre": "Antonio Barbus",
+            "correo": "barbusantonio@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 4,
+            "historial_puntos": [
+                {
+                    "puntos": 2,
+                    "motivo": "",
+                    "fecha": "2025-09-22T08:16:23+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-29T16:30:10+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-30T20:20:21+00:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-09-21T21:22:32+00:00",
+            "actualizado_en": "2025-09-30T20:20:21+00:00"
+        },
+        {
+            "id": "part_68d06cacd6bcc1.77299473",
+            "nombre": "Otto",
+            "correo": "otto.vanagt@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 6,
+            "historial_puntos": [
+                {
+                    "puntos": 2,
+                    "motivo": "",
+                    "fecha": "2025-09-22T08:16:18+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 2,
+                    "motivo": "",
+                    "fecha": "2025-09-22T08:16:41+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 0,
+                    "motivo": "",
+                    "fecha": "2025-09-22T08:16:54+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 0,
+                    "motivo": "",
+                    "fecha": "2025-09-22T08:17:15+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-29T16:30:15+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-10-01T06:30:33+00:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-09-21T21:22:52+00:00",
+            "actualizado_en": "2025-10-01T06:30:33+00:00"
+        },
+        {
+            "id": "part_68d06d70255656.66982768",
+            "nombre": "Iliia",
+            "correo": "ewenb1te@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 2,
+            "historial_puntos": [
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-22T08:20:40+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-29T16:30:18+00:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-09-21T21:26:08+00:00",
+            "actualizado_en": "2025-09-29T16:30:18+00:00"
+        },
+        {
+            "id": "part_68dab1cf0d9e31.83362652",
+            "nombre": "Artem Morozov",
+            "correo": "alex.11.monti@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 2,
+            "historial_puntos": [
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-29T16:30:22+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-30T20:19:03+00:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-09-29T16:20:31+00:00",
+            "actualizado_en": "2025-09-30T20:19:03+00:00"
+        },
+        {
+            "id": "part_68dab1e06418f2.05876768",
+            "nombre": "Hugo Gimeno Montesinos",
+            "correo": "hugogimenomontesinos@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 2,
+            "historial_puntos": [
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-29T16:30:24+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-10-06T05:58:47+00:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-09-29T16:20:48+00:00",
+            "actualizado_en": "2025-10-06T05:58:47+00:00"
+        },
+        {
+            "id": "part_68dab1ebcf10e1.36943375",
+            "nombre": "Eduardo Macia",
+            "correo": "edumacia15@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 1,
+            "historial_puntos": [
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-29T16:30:26+00:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-09-29T16:20:59+00:00",
+            "actualizado_en": "2025-09-29T16:30:26+00:00"
+        },
+        {
+            "id": "part_68dab204a755b3.18550609",
+            "nombre": "Santiago Oscar",
+            "correo": "santiagomda06@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 2,
+            "historial_puntos": [
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-29T16:30:28+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-29T21:43:26+00:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-09-29T16:21:24+00:00",
+            "actualizado_en": "2025-09-29T21:43:26+00:00"
+        },
+        {
+            "id": "part_68dab2110c8118.26103111",
+            "nombre": "Lucas Ordeig Clavel",
+            "correo": "lucasordeigclavel@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 1,
+            "historial_puntos": [
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-29T16:30:31+00:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-09-29T16:21:37+00:00",
+            "actualizado_en": "2025-09-29T16:30:31+00:00"
+        },
+        {
+            "id": "part_68dab243441c95.77081595",
+            "nombre": "Omar Enrique Raúl Volger",
+            "correo": "omarvolger334@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 1,
+            "historial_puntos": [
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-29T16:30:35+00:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-09-29T16:22:27+00:00",
+            "actualizado_en": "2025-09-29T16:30:35+00:00"
+        },
+        {
+            "id": "part_68dab28ada4c91.22239818",
+            "nombre": "Brandon",
+            "correo": "brandon38892@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 2,
+            "historial_puntos": [
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-29T16:30:37+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-10-03T09:06:38+00:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-09-29T16:23:38+00:00",
+            "actualizado_en": "2025-10-03T09:06:38+00:00"
+        },
+        {
+            "id": "part_68dab2b26903f2.14683585",
+            "nombre": "Andrii Kobylchenko",
+            "correo": "andrewsupeeguay@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 1,
+            "historial_puntos": [
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-29T16:30:39+00:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-09-29T16:24:18+00:00",
+            "actualizado_en": "2025-09-29T16:30:39+00:00"
+        },
+        {
+            "id": "part_68dab612b49f25.63183335",
+            "nombre": "Andrew Soriano Alfaro",
+            "correo": "andsor99@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 2,
+            "historial_puntos": [
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-09-29T16:38:47+00:00",
+                    "asignado_por": 1
+                },
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-10-06T05:58:56+00:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-09-29T16:38:42+00:00",
+            "actualizado_en": "2025-10-06T05:58:56+00:00"
+        },
+        {
+            "id": "part_68dc3cf7222ce4.00159098",
+            "nombre": "Dmitrii Goriachii",
+            "correo": "georgiigoriachii@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 2,
+            "historial_puntos": [
+                {
+                    "puntos": 2,
+                    "motivo": "",
+                    "fecha": "2025-09-30T20:26:35+00:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-09-30T20:26:31+00:00",
+            "actualizado_en": "2025-09-30T20:26:35+00:00"
+        },
+        {
+            "id": "part_68dcca795c0c96.52058808",
+            "nombre": "Williams Xavier Ramos",
+            "correo": "rogeliopinto025@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 1,
+            "historial_puntos": [
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-10-01T06:30:23+00:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-10-01T06:30:17+00:00",
+            "actualizado_en": "2025-10-01T06:30:23+00:00"
+        },
+        {
+            "id": "part_68e35af17b58c8.89664561",
+            "nombre": "Lucía Martínez Muñoz",
+            "correo": "Lucia.martinez.mu.03@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 0,
+            "historial_puntos": [],
+            "creado_por": 1,
+            "creado_en": "2025-10-06T06:00:17+00:00"
+        },
+        {
+            "id": "part_68e35b175cd358.00789676",
+            "nombre": "Orlando Villaba",
+            "correo": "ovillalbagaravito@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 2,
+            "historial_puntos": [
+                {
+                    "puntos": 2,
+                    "motivo": "",
+                    "fecha": "2025-10-06T06:02:44+00:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-10-06T06:00:55+00:00",
+            "actualizado_en": "2025-10-06T06:02:44+00:00"
+        },
+        {
+            "id": "part_68e35b2ceecbb8.62724784",
+            "nombre": "José Andres Salcedo",
+            "correo": "josesalcita9@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 0,
+            "historial_puntos": [],
+            "creado_por": 1,
+            "creado_en": "2025-10-06T06:01:16+00:00"
+        },
+        {
+            "id": "part_68e35b45e2c078.96550615",
+            "nombre": "Camilo Perez Valencia",
+            "correo": "cperezvalencia55@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 2,
+            "historial_puntos": [
+                {
+                    "puntos": 2,
+                    "motivo": "",
+                    "fecha": "2025-10-06T06:02:52+00:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-10-06T06:01:41+00:00",
+            "actualizado_en": "2025-10-06T06:02:52+00:00"
+        },
+        {
+            "id": "part_68e35b5e698126.38588193",
+            "nombre": "Simón Caicedo",
+            "correo": "simon.caicedo.castaneda@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 0,
+            "historial_puntos": [],
+            "creado_por": 1,
+            "creado_en": "2025-10-06T06:02:06+00:00"
+        },
+        {
+            "id": "part_68e35b767d9494.27852138",
+            "nombre": "Leandro Vides Martinez",
+            "correo": "leandrovidesmartinez091106@gmail.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 1,
+            "historial_puntos": [
+                {
+                    "puntos": 1,
+                    "motivo": "",
+                    "fecha": "2025-10-06T06:02:38+00:00",
+                    "asignado_por": 1
+                }
+            ],
+            "creado_por": 1,
+            "creado_en": "2025-10-06T06:02:30+00:00",
+            "actualizado_en": "2025-10-06T06:02:38+00:00"
+        },
+        {
+            "id": "part_68f9ee14b38451.52047337",
+            "nombre": "Juan Joaquín",
+            "correo": "juan@ejemplo.com",
+            "telefono": "",
+            "organizacion": "",
+            "cargo": "",
+            "puntos": 0,
+            "historial_puntos": [],
+            "creado_por": 14,
+            "creado_en": "2025-10-23T10:57:56+02:00"
+        }
+    ]
+}

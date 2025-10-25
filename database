@@ -1,0 +1,36 @@
+-- 🚀 Crear base de datos
+CREATE DATABASE IF NOT EXISTS u990790165_spacedev CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE u990790165_spacedev;
+
+-- 🔐 Tabla de usuarios
+CREATE TABLE usuarios (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(100) NOT NULL,
+    email VARCHAR(150) NOT NULL UNIQUE,
+    password_hash VARCHAR(255) NOT NULL,
+    rol ENUM('admin', 'miembro') DEFAULT 'miembro',
+    activo BOOLEAN DEFAULT TRUE,
+    fecha_creacion TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- 📅 Eventos o reuniones
+CREATE TABLE eventos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    titulo VARCHAR(150) NOT NULL,
+    descripcion TEXT,
+    fecha_inicio DATETIME NOT NULL,
+    fecha_fin DATETIME NOT NULL,
+    link_reunion VARCHAR(255),
+    creado_por INT NOT NULL,
+    FOREIGN KEY (creado_por) REFERENCES usuarios(id) ON DELETE CASCADE
+);
+
+-- 👥 Relación N:N entre eventos y participantes
+CREATE TABLE evento_participantes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    evento_id INT NOT NULL,
+    usuario_id INT NOT NULL,
+    FOREIGN KEY (evento_id) REFERENCES eventos(id) ON DELETE CASCADE,
+    FOREIGN KEY (usuario_id) REFERENCES usuarios(id) ON DELETE CASCADE,
+    UNIQUE KEY evento_usuario_unico (evento_id, usuario_id)
+);
